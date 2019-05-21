@@ -1,1 +1,2 @@
-1 , NAORECONHECIDO
+1 , NAO RECONHECIDO
+2 , Aurino Junior nivel 2 de acesso

@@ -1,6 +1,7 @@
 import cv2                  # Importing the opencv
 import numpy as np          # Import Numarical Python
 import NameFind             # Import NameFind mod
+
 WHITE = [255, 255, 255]
 
 face_cascade = cv2.CascadeClassifier('Haar/haarcascade_frontalcatface.xml') # Classifier "frontal-face" Haar Cascade
