@@ -10,7 +10,7 @@
 - instale pip `sudo apt install python-pip`
 - instale python3-venv ou python-venv `sudo apt install python3-venv`
 - rode para isolar o ambiente `python3 -m venv face-cam`
-- Ative o ambiente isolado `source name/bin/activate`
+- Ative o ambiente isolado `source face-cam/bin/activate`
 - instale `pip install Pillow`
 - instale `pip install opencv-python`
 - instale `pip install opencv-contrib-python`
